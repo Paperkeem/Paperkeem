@@ -1,7 +1,6 @@
 ### Code In Paper 📄
 
-[![Solved.ac프로필]
-(http://mazassumnida.wtf/api/mini/generate_badge?boj=ahharlawhddl)
+![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ahharlawhddl)
 <br>
 (https://solved.ac/ahharlawhddl)
 
