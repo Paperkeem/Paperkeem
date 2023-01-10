@@ -1,4 +1,4 @@
-### Code in paper ! 📄
+### 📄 Code in paper
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahharlawhddl)
 (https://solved.ac/ahharlawhddl)
