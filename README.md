@@ -13,7 +13,8 @@
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind&logoColor=white">
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <br>
-  
+
+<br>
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahharlawhddl)
 <br>
   
