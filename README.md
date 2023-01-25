@@ -20,10 +20,10 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahharlawhddl)
 <br>
 
-###### ⌨️ using language
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+###### ⌨️ using language <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  
 ###### 🗓 since 2022.08.08 하루 한문제
+
 [Solved.ac 사이트로 이동](https://solved.ac/ahharlawhddl)
 <br>
 
