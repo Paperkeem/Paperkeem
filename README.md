@@ -1,6 +1,6 @@
 <div align="center">
 
-#### 🌎 Creative + Coding === Making a positive difference to the world
+#### 🌎 Coding + Creative === Making a positive difference to the world
 #### 📃 Code in paper !
 
 <br />
