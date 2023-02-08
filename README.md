@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=19&height=300&section=header&text=Code%20in%20paper%20📄&fontSize=90)
 <div align="center">
+
+##### 🌎 Creative + Coding === Making a positive difference to the world
+##### 📃 Code in paper !
 
 ### 🛠 Tech Stack 🛠
 
@@ -7,6 +9,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
