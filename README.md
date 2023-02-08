@@ -1,8 +1,10 @@
 <div align="center">
 
-##### 🌎 Creative + Coding === Making a positive difference to the world
-##### 📃 Code in paper !
+#### 🌎 Creative + Coding === Making a positive difference to the world
+#### 📃 Code in paper !
 
+<br />
+  
 ### 🛠 Tech Stack 🛠
 
 <br>  
